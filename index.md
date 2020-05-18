@@ -1,3 +1,5 @@
-# Welcome to the World of Open-Source
+# Welcome
 
-## [index](index/) of activities around the globe
+# The World of Open-Source
+
+## [index of activities](index/) around the globe
