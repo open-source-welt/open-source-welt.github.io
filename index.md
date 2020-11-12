@@ -6,4 +6,4 @@
 
 ## github.com
 
-### [sindresorhus/awesome](github.com__sindresorhus__awesome/)
+### [sindresorhus/awesome](github.com__sindresorhus__awesome/#contents)
