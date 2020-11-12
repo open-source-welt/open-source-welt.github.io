@@ -2,7 +2,7 @@
 
 ## [index of activities](index/) around the globe
 
-# free resources
+# resources
 
 ## github.com
 
