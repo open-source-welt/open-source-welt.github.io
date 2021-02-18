@@ -7,4 +7,3 @@
 ## github.com
 
 ### [sindresorhus/awesome](github.com__sindresorhus__awesome/#contents)
-### [todogroup/todogroup.org](github.com__todogroup__todogroup.org/)
