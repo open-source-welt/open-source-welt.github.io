@@ -1,6 +1,6 @@
 # The World of Open Source
 
-## [awesome list](awesome-opensource/) of open source resources
+## [awesome list](awesome-opensource/#contents) of open source resources
 
 # resources
 
