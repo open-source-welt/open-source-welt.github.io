@@ -8,4 +8,5 @@
 
 ## github.com
 
+### [awesome-selfhosted/awesome-selfhosted-html](github.com__awesome-selfhosted__awesome-selfhosted-html/)
 ### [sindresorhus/awesome](github.com__sindresorhus__awesome/#contents)
